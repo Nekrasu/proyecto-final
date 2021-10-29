@@ -35,8 +35,8 @@ html{
 
 .menu-navegacion{
   background-color: var(--cobre);
-  width: 95%;
-  height: 35px;
+  width: 85%;
+  height: 45px;
   color: white;
   font-size: 25px;
   box-shadow: 0px 0px 15px var(--cobre);
